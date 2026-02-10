@@ -4,7 +4,7 @@
 ## 1. Setup and Directory Creation
 mkdir ev4 : Created a new directory named ‘ev4’.  
 cd ev4 : Changed current directory to ‘ev4’.  
-**Resultant Path:** /home/harikrishnan/ev4  
+**Resultant Path:** /home/akshai/ev4  
 
 mkdir 6 : Created a directory named '6' (roll number).  
 **Resultant Path:** /home/akshai/ev4  
@@ -149,4 +149,5 @@ Observation: If 'alice' is logged in, message appears on their terminal.
 mesg y / mesg n : Enabled/disabled ability to receive messages from other users.  
 
 **Note:** Optional `tty` argument specifies terminal session if multiple sessions exist.
+
 
