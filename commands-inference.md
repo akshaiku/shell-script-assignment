@@ -6,10 +6,10 @@ mkdir ev4 : Created a new directory named ‘ev4’.
 cd ev4 : Changed current directory to ‘ev4’.  
 **Resultant Path:** /home/harikrishnan/ev4  
 
-mkdir 27 : Created a directory named '6' (roll number).  
+mkdir 6 : Created a directory named '6' (roll number).  
 **Resultant Path:** /home/akshai/ev4  
 
-cd 27 : Entered the directory '6'.  
+cd 6 : Entered the directory '6'.  
 **Resultant Path:** /home/akshai/ev4/6 
 
 ---
@@ -54,7 +54,7 @@ cd /media : Successfully entered media using absolute path.
 ls -l : Listed contents of media.  
 **Resultant Path:** /media  
 
-cd ~/ev4/27 : Navigated directly back to my work folder.  
+cd ~/ev4/6 : Navigated directly back to my work folder.  
 **Resultant Path:** /home/akshai/ev4/6 
 
 ---
@@ -149,3 +149,4 @@ Observation: If 'alice' is logged in, message appears on their terminal.
 mesg y / mesg n : Enabled/disabled ability to receive messages from other users.  
 
 **Note:** Optional `tty` argument specifies terminal session if multiple sessions exist.
+
